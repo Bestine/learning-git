@@ -1,3 +1,3 @@
-# learning-git
+# learning-git and github
 
-This project was created when learning git and github from Amigoscode.
+## This repo was used to learn git and github from Amigoscode.
